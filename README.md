@@ -1,4 +1,4 @@
-# SidewalkSurfers
+# Sidewalk Surfers
  
 How fast are your reflexes? Because Jock and his friends are in hurry and they need your help! Help them avoid street obstacles in time and find out where they want to get to.
 
