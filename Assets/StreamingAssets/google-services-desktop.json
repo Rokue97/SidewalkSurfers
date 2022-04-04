@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542743765197",
+    "firebase_url": "https://sidewalk-surfers-og-82823611.firebaseio.com",
+    "project_id": "sidewalk-surfers-og-82823611",
+    "storage_bucket": "sidewalk-surfers-og-82823611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542743765197:android:c6bfc638d015688d8a0984",
+        "android_client_info": {
+          "package_name": "com.nsgames.nssidewalksurfers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542743765197-6sqlt1u17nbucnvfmftgpdcbf6jpov8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nsgames.nssidewalksurfers",
+            "certificate_hash": "bd8a9d5d4479293d41f3fb8d21003014a021052f"
+          }
+        },
+        {
+          "client_id": "542743765197-oh9cjh8np89iiqbmtcpnsamku6vdcfjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjVyOnGVWDEMPM9ZIW5SIsY8VtI3IRlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542743765197-oh9cjh8np89iiqbmtcpnsamku6vdcfjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
