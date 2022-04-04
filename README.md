@@ -13,5 +13,5 @@ Music and sound effects obtained from : https://www.zapsplat.com
 - Collect coins and unlock new characters.
 - Have Fun!
 
-### Gameplay Footage
+## Gameplay Footage
 https://youtu.be/7G3ugGsbKTA
